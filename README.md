@@ -257,6 +257,6 @@ MBA (Finance)
 
 ### Instagram Analysis
 
-![Instagram Analysis](screenshots/instagram-analysis.png)
+![Instagram Analysis](https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/blob/main/Dashboard%20Overview%20-%20Instagram.png)
 
 ---
