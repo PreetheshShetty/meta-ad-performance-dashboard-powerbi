@@ -49,7 +49,7 @@ Contains ad-level information:
 - Target Age Grou
 - Target Interests
 
-📄 [users.csv](https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/blob/main/ads.csv)
+📄 [ads.csv](https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/blob/main/ads.csv)
 
 ### 3. Users Table
 
@@ -59,7 +59,8 @@ Contains audience information:
 - Age
 - Country
 - Interests
-https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/blob/main/users.csv
+
+📄 [users.csv](https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/blob/main/users.csv)
 
 ### 4. Ad Events Table
 
@@ -71,7 +72,9 @@ Tracks user interactions:
 - Comment
 - Share
 - Purchase
-https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/blob/main/ad_events.csv
+
+📄 [ad_events.csv](https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/blob/main/ad_events.csv)
+
 ---
 
 ## Data Model
