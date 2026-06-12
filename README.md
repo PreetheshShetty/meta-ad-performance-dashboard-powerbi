@@ -37,7 +37,7 @@ Contains campaign details including:
 - Duration
 - Budget
 
-  
+ 
 ### 2. Ads Table
 
 Contains ad-level information:
@@ -67,7 +67,7 @@ Tracks user interactions:
 - Comment
 - Share
 - Purchase
-
+https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/blob/main/ad_events.csv
 ---
 
 ## Data Model
