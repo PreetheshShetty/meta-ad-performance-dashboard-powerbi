@@ -1,2 +1,255 @@
-# meta-ad-performance-dashboard-powerbi
-Power BI Dashboard analyzing Facebook and Instagram advertising campaigns with 400K+ ad events, campaign performance, engagement metrics, audience insights and conversion analysis.
+# Meta Ad Performance Dashboard
+
+## Project Overview
+
+This project analyzes Meta advertising performance across Facebook and Instagram using Power BI.
+
+The dashboard provides insights into campaign effectiveness, audience engagement, ad performance, platform comparison, and conversion metrics.
+
+The dataset consists of:
+
+- 400,000 Ad Events
+- 200 Ads
+- 50 Campaigns
+- 9,841 Users
+
+The dashboard helps marketing teams identify:
+
+- Best performing campaigns
+- Highest engagement ads
+- Platform-wise performance
+- Audience demographics
+- Conversion behavior
+- Budget utilization
+
+---
+
+## Dataset Information
+
+### 1. Campaigns Table
+
+Contains campaign details including:
+
+- Campaign ID
+- Campaign Name
+- Start Date
+- End Date
+- Duration
+- Budget
+
+  
+### 2. Ads Table
+
+Contains ad-level information:
+
+- Ad Platform
+- Ad Type
+- Target Gender
+- Target Age Group
+- Target Interests
+
+### 3. Users Table
+
+Contains audience information:
+
+- Gender
+- Age
+- Country
+- Interests
+
+### 4. Ad Events Table
+
+Tracks user interactions:
+
+- Impression
+- Click
+- Like
+- Comment
+- Share
+- Purchase
+
+---
+
+## Data Model
+
+Relationships:
+
+Campaigns (1) → Ads (Many)
+
+Ads (1) → Ad Events (Many)
+
+Users (1) → Ad Events (Many)
+
+---
+
+## Key Performance Indicators (KPIs)
+
+### Total Impressions
+
+Measures total ad visibility.
+
+### Total Clicks
+
+Measures user interaction with ads.
+
+### Click Through Rate (CTR)
+
+CTR = Clicks / Impressions
+
+### Total Engagements
+
+Likes + Comments + Shares
+
+### Engagement Rate
+
+Engagements / Impressions
+
+### Total Purchases
+
+Measures conversions generated.
+
+### Conversion Rate
+
+Purchases / Clicks
+
+### Campaign Budget
+
+Total budget allocated.
+
+### Platform Performance
+
+Facebook vs Instagram comparison.
+
+---
+
+## Business Questions Answered
+
+### 1. Which campaign generated the highest impressions?
+
+Identifies campaigns with maximum audience reach.
+
+### 2. Which campaign generated the highest clicks?
+
+Determines campaigns driving user interaction.
+
+### 3. Which campaign generated the most purchases?
+
+Identifies top converting campaigns.
+
+### 4. Which platform performs better?
+
+Comparison between Facebook and Instagram.
+
+### 5. Which ad type performs best?
+
+Comparison among:
+
+- Image Ads
+- Video Ads
+- Carousel Ads
+- Stories Ads
+
+### 6. Which audience age group engages the most?
+
+Identifies high-engagement age segments.
+
+### 7. Which gender generates more conversions?
+
+Male vs Female conversion analysis.
+
+### 8. What are the peak engagement periods?
+
+Analysis by:
+
+- Day of Week
+- Time of Day
+
+### 9. Which target interests generate the highest engagement?
+
+Audience interest analysis.
+
+### 10. Which campaigns provide the best ROI potential?
+
+Budget versus performance comparison.
+
+---
+
+## Dashboard Features
+
+### Executive Summary
+
+- Total Impressions
+- Total Clicks
+- Total Purchases
+- CTR
+- Engagement Rate
+
+### Campaign Analysis
+
+- Campaign Performance Ranking
+- Budget Analysis
+- Conversion Tracking
+
+### Platform Analysis
+
+- Facebook Performance
+- Instagram Performance
+
+### Audience Analysis
+
+- Gender Insights
+- Age Group Insights
+- Interest Analysis
+
+### Time Analysis
+
+- Day-wise Engagement
+- Time-wise Engagement
+
+---
+
+## Tools Used
+
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Data Visualization
+
+---
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- DAX Calculations
+- Marketing Analytics
+- Dashboard Design
+- KPI Development
+- Business Intelligence Reporting
+
+---
+
+## Screenshots
+
+### Dashboard Overview
+
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+### Facebook Analysis
+
+![Facebook Analysis](screenshots/facebook-analysis.png)
+
+### Instagram Analysis
+
+![Instagram Analysis](screenshots/instagram-analysis.png)
+
+---
+
+## Author
+
+Mohammad Anas
+
+MBA (Finance)
+
+Power BI | Business Analytics | Data Visualization
