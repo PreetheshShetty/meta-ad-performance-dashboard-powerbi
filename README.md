@@ -57,7 +57,7 @@ Contains audience information:
 - Age
 - Country
 - Interests
-
+https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/blob/main/users.csv
 
 ### 4. Ad Events Table
 
@@ -232,6 +232,14 @@ Budget versus performance comparison.
 
 ---
 
+## Author
+
+Preethesh Shetty
+
+MBA (Finance)
+
+---
+
 ## Screenshots
 
 ### Dashboard Overview
@@ -247,11 +255,3 @@ Budget versus performance comparison.
 ![Instagram Analysis](screenshots/instagram-analysis.png)
 
 ---
-
-## Author
-
-Mohammad Anas
-
-MBA (Finance)
-
-Power BI | Business Analytics | Data Visualization
