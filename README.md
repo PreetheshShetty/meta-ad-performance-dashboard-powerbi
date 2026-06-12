@@ -229,6 +229,16 @@ Budget versus performance comparison.
 - Business Intelligence Reporting
 
 
+## Key DAX Measures Used
+
+- Total Impressions
+- Total Clicks
+- Total Purchases
+- CTR
+- Engagement Rate
+- Conversion Rate
+
+
 ## Author
 
 Preethesh Shetty
@@ -236,7 +246,7 @@ Preethesh Shetty
 MBA (Finance)
 
 
-## Screenshots
+## Dashboard Demo
 
 ### Dashboard Overview
 
