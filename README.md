@@ -47,7 +47,7 @@ Contains ad-level information:
 - Target Gender
 - Target Age Grou
 - Target Interests
-- 
+- https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/blob/main/ads.csv
 
 ### 3. Users Table
 
