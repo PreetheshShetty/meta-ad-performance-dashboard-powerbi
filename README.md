@@ -22,7 +22,6 @@ The dashboard helps marketing teams identify:
 - Conversion behavior
 - Budget utilization
 
----
 
 ## Dataset Information
 
@@ -75,7 +74,6 @@ Tracks user interactions:
 
 📄 [ad_events.csv](https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/blob/main/ad_events.csv)
 
----
 
 ## Data Model
 
@@ -87,7 +85,6 @@ Ads (1) → Ad Events (Many)
 
 Users (1) → Ad Events (Many)
 
----
 
 ## Key Performance Indicators (KPIs)
 
@@ -127,7 +124,6 @@ Total budget allocated.
 
 Facebook vs Instagram comparison.
 
----
 
 ## Business Questions Answered
 
@@ -179,7 +175,6 @@ Audience interest analysis.
 
 Budget versus performance comparison.
 
----
 
 ## Dashboard Features
 
@@ -213,7 +208,6 @@ Budget versus performance comparison.
 - Day-wise Engagement
 - Time-wise Engagement
 
----
 
 ## Tools Used
 
@@ -223,7 +217,6 @@ Budget versus performance comparison.
 - Data Modeling
 - Data Visualization
 
----
 
 ## Skills Demonstrated
 
@@ -235,7 +228,6 @@ Budget versus performance comparison.
 - KPI Development
 - Business Intelligence Reporting
 
----
 
 ## Author
 
@@ -243,13 +235,12 @@ Preethesh Shetty
 
 MBA (Finance)
 
----
 
 ## Screenshots
 
 ### Dashboard Overview
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+<https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/blob/main/Meta%20Ad%20Performance%20Dashboard%2C.pbix>
 
 ### Facebook Analysis
 
