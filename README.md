@@ -253,7 +253,7 @@ MBA (Finance)
 
 ### Facebook Analysis
 
-![Facebook Analysis](screenshots/facebook-analysis.png)
+![Facebook Analysis](https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/blob/main/Dashboard%20Overview%20-%20Facebook.png)
 
 ### Instagram Analysis
 
