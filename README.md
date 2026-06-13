@@ -36,7 +36,7 @@ Contains campaign details including:
 - Duration
 - Budget
 
-📥 [Download campaigns.csv](https://github.com/USERNAME/REPOSITORY_NAME/raw/main/campaigns.csv)
+📥 [Download campaigns.csv](https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/blob/main/campaigns.csv)
  
 ### 2. Ads Table
 
