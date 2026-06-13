@@ -36,7 +36,7 @@ Contains campaign details including:
 - Duration
 - Budget
 
-📄 [campaigns.csv](https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/blob/main/campaigns.csv)
+📥 [Download campaigns.csv](https://github.com/USERNAME/REPOSITORY_NAME/raw/main/campaigns.csv)
  
 ### 2. Ads Table
 
@@ -48,7 +48,7 @@ Contains ad-level information:
 - Target Age Grou
 - Target Interests
 
-📄 [ads.csv](https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/blob/main/ads.csv)
+📥 [Download ads.csv](https://github.com/USERNAME/REPOSITORY_NAME/raw/main/ads.csv)
 
 ### 3. Users Table
 
