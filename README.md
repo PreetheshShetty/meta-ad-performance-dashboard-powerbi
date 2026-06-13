@@ -59,7 +59,7 @@ Contains audience information:
 - Country
 - Interests
 
-📄 [users.csv](https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/blob/main/users.csv)
+📄 [users.csv](https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/raw/refs/heads/main/users.csv)
 
 ### 4. Ad Events Table
 
