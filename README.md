@@ -248,9 +248,7 @@ MBA (Finance)
 
 ## Dashboard Demo
 
-### Dashboard Overview
-
-<https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/blob/main/Meta%20Ad%20Performance%20Dashboard%2C.pbix>
+📥 [Download Dashboard](https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/blob/main/Meta%20Ad%20Performance%20Dashboard%2C.pbix)
 
 ### Facebook Analysis
 
