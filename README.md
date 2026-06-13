@@ -72,7 +72,7 @@ Tracks user interactions:
 - Share
 - Purchase
 
-📥 [Download ad_events.csv](https://github.com/USERNAME/REPOSITORY_NAME/raw/main/ad_events.csv)
+📥 [Download ad_events.csv](https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/blob/main/ad_events.csv)
 
 
 ## Data Model
