@@ -75,15 +75,6 @@ Tracks user interactions:
 📥 [Download ad_events.csv](https://github.com/PreetheshShetty/meta-ad-performance-dashboard-powerbi/blob/main/ad_events.csv)
 
 
-## Data Model
-
-Relationships:
-
-Campaigns (1) → Ads (Many)
-
-Ads (1) → Ad Events (Many)
-
-Users (1) → Ad Events (Many)
 
 
 ## Key Performance Indicators (KPIs)
